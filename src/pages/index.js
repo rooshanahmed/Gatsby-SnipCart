@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       <h1>Hello World!</h1>
       <button
-        class="snipcart-add-item"
+        className="snipcart-add-item"
         data-item-id="formal-shoe"
         data-item-price="30"
         data-item-description="High-Qulality Shoe in best price"
